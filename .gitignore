@@ -2,6 +2,10 @@
 venv/
 .venv/
 
+# Files
+/static
+/media
+
 # Python
 __pycache__/
 *.py[cod]
